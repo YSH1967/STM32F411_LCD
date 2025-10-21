@@ -1,0 +1,2 @@
+../Core/Src/TFT-320x240_touch.c:14:13:TFT_TouchPressed	1
+../Core/Src/TFT-320x240_touch.c:25:6:TFT_TouchGetCoordinates	8

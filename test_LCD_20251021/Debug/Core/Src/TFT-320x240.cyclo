@@ -1,0 +1,11 @@
+../Core/Src/TFT-320x240.c:32:13:TFT_WriteCommand	1
+../Core/Src/TFT-320x240.c:41:13:TFT_WriteData	2
+../Core/Src/TFT-320x240.c:57:13:TFT_SetAddressWindow	1
+../Core/Src/TFT-320x240.c:81:6:TFT_Init	1
+../Core/Src/TFT-320x240.c:241:13:TFT_WriteChar	4
+../Core/Src/TFT-320x240.c:269:6:TFT_WriteString	4
+../Core/Src/TFT-320x240.c:299:6:TFT_FillRectangle	6
+../Core/Src/TFT-320x240.c:325:6:TFT_FillScreen	1
+../Core/Src/TFT-320x240.c:331:6:LCD_Clear	1
+../Core/Src/TFT-320x240.c:338:6:Debug_PrintBuffer	4
+../Core/Src/TFT-320x240.c:351:6:Clear_ImageBuffer	3
